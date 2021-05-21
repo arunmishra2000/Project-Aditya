@@ -1,0 +1,3609 @@
+{
+  "type": "FeatureCollection",
+  "etag": "731d0855e06fe98fa1bf300df0cd495c",
+  "features": [
+    {
+      "id": "TsHUvqBFXG2ike4u",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 869.5882857918576,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "a63c9b4b-321e-457a-9c28-ed652b754937",
+          "puuid": "6c26e8f1-8d0e-44f2-b4c4-3fed3140c3e4",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607256748861,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53041634,
+                48.15162691,
+                0
+              ],
+              [
+                11.53062714,
+                48.15097465,
+                0
+              ],
+              [
+                11.53078342,
+                48.1509892,
+                0
+              ],
+              [
+                11.53056899,
+                48.15164874,
+                0
+              ],
+              [
+                11.53041634,
+                48.15162691,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "giZUjg2XVfbMo8za",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 701.9862378075626,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "4e02fb2f-75e3-4df6-8b82-9f4209b35491",
+          "puuid": "79f34c39-3a99-4f28-892d-69244b9af684",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607256748861,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52983483,
+                48.15147415,
+                0
+              ],
+              [
+                11.52996567,
+                48.1514984,
+                0
+              ],
+              [
+                11.5301583,
+                48.15091161,
+                0
+              ],
+              [
+                11.53001655,
+                48.15088493,
+                0
+              ],
+              [
+                11.52983483,
+                48.15147415,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "VP8pwQnMgvFeVlWG",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 309.2158453684813,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "c4b17c63-943a-4a4a-9b4d-fc34e7b02b3b",
+          "puuid": "d061fef6-a525-4005-951f-396e04fbda26",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607256748861,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52889543,
+                48.15035111,
+                0
+              ],
+              [
+                11.5288844,
+                48.15029226,
+                0
+              ],
+              [
+                11.52955427,
+                48.15039158,
+                0
+              ],
+              [
+                11.52952119,
+                48.15044491,
+                0
+              ],
+              [
+                11.52889543,
+                48.15035111,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2XO6YbYX0WDIsuQ4",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 270.6797087821389,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "581354d5-9143-43a7-8a9b-18a503a6e29c",
+          "puuid": "4c6753e7-0103-4870-aea7-97c467715f65",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607256884931,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52899749,
+                48.14984327,
+                0
+              ],
+              [
+                11.52912011,
+                48.14984327,
+                0
+              ],
+              [
+                11.52914003,
+                48.14959068,
+                0
+              ],
+              [
+                11.52900515,
+                48.14958762,
+                0
+              ],
+              [
+                11.52899749,
+                48.14984327,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "KVYC11A0F0IwDg9I",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 161.7032136228861,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "6ca6dad7-a11e-474e-97fb-80d15858c2eb",
+          "puuid": "62762f7a-f091-4523-b2a9-ad4b0d861a2a",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607256884931,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52917528,
+                48.14964079,
+                0
+              ],
+              [
+                11.52918141,
+                48.14951297,
+                0
+              ],
+              [
+                11.52933468,
+                48.14951297,
+                0
+              ],
+              [
+                11.52932548,
+                48.14964284,
+                0
+              ],
+              [
+                11.52917528,
+                48.14964079,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "0IpfLSZxIdFDBcGr",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 653.9907127065945,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "da5ea3fe-e932-43ff-b259-39d8e63d1ee6",
+          "puuid": "97e6303c-9754-485b-9ab6-e308b663ae8e",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607256884931,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52639385,
+                48.148555,
+                0
+              ],
+              [
+                11.52633074,
+                48.14852054,
+                0
+              ],
+              [
+                11.52771637,
+                48.14795252,
+                0
+              ],
+              [
+                11.52766208,
+                48.14803366,
+                0
+              ],
+              [
+                11.52639385,
+                48.148555,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "UhSmLIzVsNhjYH6Z",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 2178.929620823959,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "275890ba-8dd4-4c58-a74a-5714ad0b7ca3",
+          "puuid": "6599ded1-ae49-4c38-bb2c-70e267112521",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607256884931,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52357369,
+                48.14875685,
+                0
+              ],
+              [
+                11.52306459,
+                48.14810856,
+                0
+              ],
+              [
+                11.5233526,
+                48.14798822,
+                0
+              ],
+              [
+                11.5238966,
+                48.1486171,
+                0
+              ],
+              [
+                11.52357369,
+                48.14875685,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "V2aMw8DcYyKDJPlr",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 1475.3253503478554,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "596f5b5d-9b4f-4478-9ddc-3273dd005ee6",
+          "puuid": "db9a4350-5e4f-4f3d-92f9-35577fa8af69",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607256884931,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52423988,
+                48.14847346,
+                0
+              ],
+              [
+                11.52371624,
+                48.14785623,
+                0
+              ],
+              [
+                11.52394024,
+                48.14776695,
+                0
+              ],
+              [
+                11.52445515,
+                48.14840747,
+                0
+              ],
+              [
+                11.52423988,
+                48.14847346,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "XCDMdnGqkXOJZ0qD",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 627.5274225581386,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "2c181c51-aa9f-4f97-af8b-a5cd84c35a36",
+          "puuid": "2e5ed9f4-d395-434d-997f-70599b666f39",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258007425,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52049106,
+                48.15036884,
+                0
+              ],
+              [
+                11.52049106,
+                48.15029231,
+                0
+              ],
+              [
+                11.52140297,
+                48.15013925,
+                0
+              ],
+              [
+                11.52141062,
+                48.15022726,
+                0
+              ],
+              [
+                11.52049106,
+                48.15036884,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bWpbEwD6LJ7hOHfq",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 259.9260695212317,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "e6a05a01-bb58-4314-8207-8cb577d12a1b",
+          "puuid": "1e9f91ab-3d4f-4cae-8243-f213a8395e7a",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258007425,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52150047,
+                48.15021196,
+                0
+              ],
+              [
+                11.52151767,
+                48.15014181,
+                0
+              ],
+              [
+                11.52190767,
+                48.15018135,
+                0
+              ],
+              [
+                11.52187517,
+                48.15026935,
+                0
+              ],
+              [
+                11.52150047,
+                48.15021196,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2B0ylkTxAwPngsbl",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 509.5843693623826,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "c80a28ff-a915-4c5f-882c-e49b91ec7e93",
+          "puuid": "80648482-816a-4a60-be13-0e7f9671140f",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258007425,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52046804,
+                48.15093985,
+                0
+              ],
+              [
+                11.5205124,
+                48.15039607,
+                0
+              ],
+              [
+                11.52062329,
+                48.15037757,
+                0
+              ],
+              [
+                11.52057894,
+                48.1509491,
+                0
+              ],
+              [
+                11.52046804,
+                48.15093985,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ijZIh17cxa7c2omB",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 561.2754136671595,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "689fbf6c-ed98-4fdf-b3e2-f92f1c12cf0e",
+          "puuid": "5cd363ea-dbf6-4ada-930a-0a20d520f5f2",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258007425,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52061499,
+                48.15097315,
+                0
+              ],
+              [
+                11.52062886,
+                48.15091951,
+                0
+              ],
+              [
+                11.52169619,
+                48.15101939,
+                0
+              ],
+              [
+                11.52167124,
+                48.15108967,
+                0
+              ],
+              [
+                11.52061499,
+                48.15097315,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "Ls8lpit7gx6fG3Zc",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 543.4888854626391,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "4c77a87e-0059-4ca3-92ca-5ef71546646f",
+          "puuid": "c9e5a7ff-5811-4a61-8f99-3687f832a200",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258007425,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52162689,
+                48.1509898,
+                0
+              ],
+              [
+                11.52171283,
+                48.15099904,
+                0
+              ],
+              [
+                11.52188748,
+                48.15028694,
+                0
+              ],
+              [
+                11.52179322,
+                48.15027769,
+                0
+              ],
+              [
+                11.52162689,
+                48.1509898,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "YIPZe7oxbCkQLwK4",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 572.4185312846888,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "091a25bc-bb84-468e-bede-a514f21f9e98",
+          "puuid": "738fd97f-c279-4a92-9da8-9726827e33ec",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258007425,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52847449,
+                48.14795461,
+                0
+              ],
+              [
+                11.52853824,
+                48.14784508,
+                0
+              ],
+              [
+                11.52912631,
+                48.14793334,
+                0
+              ],
+              [
+                11.52908488,
+                48.14803967,
+                0
+              ],
+              [
+                11.52847449,
+                48.14795461,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ckFjqAPzpiSAZ97h",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 84.65110885983374,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "0c0049eb-574b-412f-859a-8c6b1c6429bc",
+          "puuid": "48156415-050d-442a-a4f1-85747c0badbc",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258007425,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53130914,
+                48.15068444,
+                0
+              ],
+              [
+                11.53130472,
+                48.15063285,
+                0
+              ],
+              [
+                11.53154334,
+                48.1506638,
+                0
+              ],
+              [
+                11.53144391,
+                48.15070802,
+                0
+              ],
+              [
+                11.53130914,
+                48.15068444,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3PaswyANhFxsqPkZ",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 72.78799124329971,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "b129aa85-2d2e-413a-a351-35769a710656",
+          "puuid": "68a63223-92c3-40c1-b42e-03e51a42d8dd",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258007425,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53186591,
+                48.15075814,
+                0
+              ],
+              [
+                11.53184382,
+                48.15071539,
+                0
+              ],
+              [
+                11.53209127,
+                48.15074045,
+                0
+              ],
+              [
+                11.53199405,
+                48.15078173,
+                0
+              ],
+              [
+                11.53186591,
+                48.15075814,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "Yn29hafjJz51Dv3a",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 266.2539590944702,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "d9208618-1dcf-4096-a6b8-80ebe54064bd",
+          "puuid": "fba82387-e620-463e-8430-a1d8d540fa1e",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258145263,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.51945215,
+                48.1512525,
+                0
+              ],
+              [
+                11.51945215,
+                48.15120151,
+                0
+              ],
+              [
+                11.52008747,
+                48.15122063,
+                0
+              ],
+              [
+                11.52007553,
+                48.15127162,
+                0
+              ],
+              [
+                11.51945215,
+                48.1512525,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7qDDE6sYKd5jFWWL",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 152.86531239315377,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "44c038d0-2265-4211-a6f9-eb86fd2f2574",
+          "puuid": "1c67b7ad-8ff8-4c23-8b8e-964a37715fba",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258145263,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52072757,
+                48.15146921,
+                0
+              ],
+              [
+                11.52072519,
+                48.15141662,
+                0
+              ],
+              [
+                11.52112644,
+                48.15143415,
+                0
+              ],
+              [
+                11.52105479,
+                48.15148036,
+                0
+              ],
+              [
+                11.52072757,
+                48.15146921,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "inHeA7lSumjzECP1",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 187.6572533443357,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "ed287bef-3bf4-4760-96a1-a6e4796a341f",
+          "puuid": "67ca7790-51dc-4251-8964-c8ce9328043b",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258145263,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52122089,
+                48.15217124,
+                0
+              ],
+              [
+                11.52120428,
+                48.15212468,
+                0
+              ],
+              [
+                11.5216563,
+                48.15213576,
+                0
+              ],
+              [
+                11.52161309,
+                48.15219563,
+                0
+              ],
+              [
+                11.52122089,
+                48.15217124,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "VKOcoRVKZwnguSco",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 88.90505733594831,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "6bf824f6-c5f6-4d34-91fc-751dd7376119",
+          "puuid": "4db1b4a7-04a6-49f6-80fe-b49b13786667",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258419008,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.5336953,
+                48.14794939,
+                0
+              ],
+              [
+                11.53366714,
+                48.14788944,
+                0
+              ],
+              [
+                11.53391524,
+                48.14792613,
+                0
+              ],
+              [
+                11.53381332,
+                48.14797176,
+                0
+              ],
+              [
+                11.5336953,
+                48.14794939,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "vOTvyTbCefl4ktXF",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 115.37857406596724,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "4e2cd015-bebf-4c26-960d-dc3623749e4e",
+          "puuid": "0f4b04cc-96ed-460b-804c-45d59c35aa3c",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258689687,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.51433924,
+                48.16250876,
+                0
+              ],
+              [
+                11.51439289,
+                48.16242378,
+                0
+              ],
+              [
+                11.5145793,
+                48.16248639,
+                0
+              ],
+              [
+                11.51445055,
+                48.1625347,
+                0
+              ],
+              [
+                11.51433924,
+                48.16250876,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "T8ZCfpBMZzfjAJTF",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 40.17335012058935,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "a0b8ac70-5b82-4a74-9e2a-66b6b9cfb352",
+          "puuid": "4b284a57-4e18-4876-ada0-9a47955c422f",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258689687,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.5148935,
+                48.16239651,
+                0
+              ],
+              [
+                11.51495921,
+                48.1624153,
+                0
+              ],
+              [
+                11.51501151,
+                48.16237415,
+                0
+              ],
+              [
+                11.51490691,
+                48.16234284,
+                0
+              ],
+              [
+                11.5148935,
+                48.16239651,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "WH5LChL2ViLSXOUr",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 291.80878189759477,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "e39fcbc3-2307-46ac-b995-98c1a21708a5",
+          "puuid": "ecb52004-4b80-48df-a66d-cfc59482d9fb",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258689687,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.51586847,
+                48.16233658,
+                0
+              ],
+              [
+                11.51595967,
+                48.16218987,
+                0
+              ],
+              [
+                11.51616351,
+                48.16223549,
+                0
+              ],
+              [
+                11.51606025,
+                48.16239472,
+                0
+              ],
+              [
+                11.51586847,
+                48.16233658,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "JmWr86e2cTGlKymY",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 390.78920673434743,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "a5db46b7-1140-4e9f-9449-90d4bd07bf4d",
+          "puuid": "fa0b266d-61e7-4552-b33b-badb9f0043de",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258689687,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.51685574,
+                48.1625212,
+                0
+              ],
+              [
+                11.51699898,
+                48.1625422,
+                0
+              ],
+              [
+                11.51675657,
+                48.16286348,
+                0
+              ],
+              [
+                11.51663694,
+                48.16283828,
+                0
+              ],
+              [
+                11.51685574,
+                48.1625212,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "B8vSqLj1QNQt9uW5",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 404.5525560480823,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "afb16312-7761-489a-ae1c-88d7ec7aad90",
+          "puuid": "386b196c-59e1-45a4-9f95-7e68241386e5",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258689687,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.51718629,
+                48.16266189,
+                0
+              ],
+              [
+                11.51725397,
+                48.16255585,
+                0
+              ],
+              [
+                11.51764749,
+                48.16266609,
+                0
+              ],
+              [
+                11.51758295,
+                48.16277109,
+                0
+              ],
+              [
+                11.51718629,
+                48.16266189,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2H4cf3jLdcR3wn6W",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 171.3153900468323,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "17b8f97d-7aaa-4fe4-9f4b-af51feda20a0",
+          "puuid": "d09bbd3d-6310-4ce8-952e-7465ede3f272",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258793029,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.51563268,
+                48.16350427,
+                0
+              ],
+              [
+                11.51556946,
+                48.16361872,
+                0
+              ],
+              [
+                11.51573654,
+                48.16365486,
+                0
+              ],
+              [
+                11.51579072,
+                48.16354041,
+                0
+              ],
+              [
+                11.51563268,
+                48.16350427,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "Qt5nDYm7NjrikJf8",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 500.1356614694473,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "d7753ac0-e417-492d-9631-017097bff489",
+          "puuid": "48194fda-04c4-40e9-b463-957a857e8e2b",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258793029,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.51857226,
+                48.16360969,
+                0
+              ],
+              [
+                11.51866709,
+                48.16346211,
+                0
+              ],
+              [
+                11.51902833,
+                48.16353439,
+                0
+              ],
+              [
+                11.51894253,
+                48.16368198,
+                0
+              ],
+              [
+                11.51857226,
+                48.16360969,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "TjWzIqSNSJ1TppYG",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 427.4971827174009,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "31b785b2-bd64-4efd-a778-c885927a7a2a",
+          "puuid": "7923f797-813e-4481-8675-cde0300858d1",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53195944,
+                48.15250597,
+                0
+              ],
+              [
+                11.53216495,
+                48.15253566,
+                0
+              ],
+              [
+                11.53224122,
+                48.15230385,
+                0
+              ],
+              [
+                11.5320336,
+                48.15226286,
+                0
+              ],
+              [
+                11.53195944,
+                48.15250597,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "DGbyKgVpdRVjAfZo",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 258.3295542078327,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "6859a714-3c7b-49d4-b037-dd99f1eb871b",
+          "puuid": "a89d4b8e-c26b-4c34-945b-6887cd19b458",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53220733,
+                48.15263036,
+                0
+              ],
+              [
+                11.53224122,
+                48.15253,
+                0
+              ],
+              [
+                11.53252089,
+                48.15255686,
+                0
+              ],
+              [
+                11.53247639,
+                48.15267418,
+                0
+              ],
+              [
+                11.53220733,
+                48.15263036,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "DUw3WAAMFyUFykZE",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 69.32602110485861,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "74e2977c-4aea-4573-a92b-d7758e143110",
+          "puuid": "1a0e71e6-32cb-48bb-8ed4-3c3f40e56185",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.5335289,
+                48.15195036,
+                0
+              ],
+              [
+                11.53357256,
+                48.15191346,
+                0
+              ],
+              [
+                11.5337472,
+                48.15194453,
+                0
+              ],
+              [
+                11.53375884,
+                48.15198531,
+                0
+              ],
+              [
+                11.5335289,
+                48.15195036,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "clfrBCGQzi1YzGbS",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 107.71037470641946,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "e7794112-be90-4d7e-bf5f-9f697f474d91",
+          "puuid": "552ea3d0-8e99-4ae6-bc13-dc6d8e72767b",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53360458,
+                48.15166102,
+                0
+              ],
+              [
+                11.53370645,
+                48.15162024,
+                0
+              ],
+              [
+                11.53386363,
+                48.15164743,
+                0
+              ],
+              [
+                11.533884,
+                48.15171151,
+                0
+              ],
+              [
+                11.53360458,
+                48.15166102,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "saCk5Cppnkn79K2m",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 241.76934969534068,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "e0d6554d-971f-4f0f-b55a-a42a83195af0",
+          "puuid": "9d83a310-fffe-41e9-b169-3ee312ac8519",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53322733,
+                48.14626812,
+                0
+              ],
+              [
+                11.53318714,
+                48.14606992,
+                0
+              ],
+              [
+                11.53332693,
+                48.14604893,
+                0
+              ],
+              [
+                11.53337236,
+                48.14624946,
+                0
+              ],
+              [
+                11.53322733,
+                48.14626812,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "7sdHOivGB3gh8MNz",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 147.9905125745126,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "956915a0-3024-4e84-a3d1-5d96eb385023",
+          "puuid": "6db47617-7265-4207-8545-37498a87a3ee",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53299318,
+                48.14644067,
+                0
+              ],
+              [
+                11.53297047,
+                48.14638821,
+                0
+              ],
+              [
+                11.53328325,
+                48.14633341,
+                0
+              ],
+              [
+                11.53330421,
+                48.14638821,
+                0
+              ],
+              [
+                11.53299318,
+                48.14644067,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "T8fAa9nL1nF11SdZ",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 74.45685771487737,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "461bc6c9-4072-44bf-a713-8d3d5071ebb9",
+          "puuid": "a2ab8ca0-ddaa-4169-8774-918d9f67c19f",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53264895,
+                48.14649663,
+                0
+              ],
+              [
+                11.53262798,
+                48.14644417,
+                0
+              ],
+              [
+                11.53279048,
+                48.14641735,
+                0
+              ],
+              [
+                11.53281145,
+                48.14646865,
+                0
+              ],
+              [
+                11.53264895,
+                48.14649663,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "AqwvVR0ZCVZqWzAa",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 163.66675963005332,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "2f1c32f6-155c-481c-a41f-ca3689e72359",
+          "puuid": "62c7c8eb-b4f5-4b5d-9ad1-fff6277066e7",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52087812,
+                48.15322547,
+                0
+              ],
+              [
+                11.52085657,
+                48.15318234,
+                0
+              ],
+              [
+                11.52133068,
+                48.1531381,
+                0
+              ],
+              [
+                11.52129255,
+                48.15318566,
+                0
+              ],
+              [
+                11.52087812,
+                48.15322547,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "Ss42rJODXjAjdAEC",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 118.89468732448475,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "b12effe0-33c8-40c5-ae51-3cc634afa23f",
+          "puuid": "aee57625-97da-4bae-8592-eb2b99492779",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52153126,
+                48.15315469,
+                0
+              ],
+              [
+                11.521518,
+                48.15312152,
+                0
+              ],
+              [
+                11.52197056,
+                48.15307728,
+                0
+              ],
+              [
+                11.52195233,
+                48.15311046,
+                0
+              ],
+              [
+                11.52153126,
+                48.15315469,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "vsmg0HCcwS8XZxcv",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 171.6964359536142,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "d6ed797f-d1b0-470a-b5d5-163d53ef5e90",
+          "puuid": "5d84028a-d7bc-4081-bd6b-9b4bc3994b0f",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52030861,
+                48.15373353,
+                0
+              ],
+              [
+                11.5202849,
+                48.15364089,
+                0
+              ],
+              [
+                11.52050503,
+                48.15362169,
+                0
+              ],
+              [
+                11.52052535,
+                48.15371545,
+                0
+              ],
+              [
+                11.52030861,
+                48.15373353,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "INLkjew34lx18mPY",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 62.82648951055389,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "78acd5ca-09ad-448a-9b69-08fefd453588",
+          "puuid": "5e06d193-eb62-42d2-8eae-1ea801cb4651",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52396351,
+                48.15603496,
+                0
+              ],
+              [
+                11.52399261,
+                48.15598644,
+                0
+              ],
+              [
+                11.52413081,
+                48.15600221,
+                0
+              ],
+              [
+                11.52410353,
+                48.15605558,
+                0
+              ],
+              [
+                11.52396351,
+                48.15603496,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "kyl42cT30ZhpFsrk",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 69.45524014935964,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "7f2cec97-f386-4ee3-b334-d61165382730",
+          "puuid": "7ba096cc-c33e-469f-85e2-41bbc45542ad",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607258959775,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.52474908,
+                48.15661481,
+                0
+              ],
+              [
+                11.52470908,
+                48.15653353,
+                0
+              ],
+              [
+                11.52485092,
+                48.15655294,
+                0
+              ],
+              [
+                11.52483092,
+                48.15662451,
+                0
+              ],
+              [
+                11.52474908,
+                48.15661481,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "mkQ7n1SU64Iu3P0K",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 153.09595715201328,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "645eb068-9652-4d33-8f6c-c150aa76ac42",
+          "puuid": "fe475b4a-af94-4438-847a-6bd7fc30335d",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607259088208,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53311982,
+                48.16061037,
+                0
+              ],
+              [
+                11.53311829,
+                48.16054011,
+                0
+              ],
+              [
+                11.53337933,
+                48.16054316,
+                0
+              ],
+              [
+                11.53338239,
+                48.16061445,
+                0
+              ],
+              [
+                11.53311982,
+                48.16061037,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "tSV3rOSzlEXBuO1b",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 153.00241443954425,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "ffca7747-1daf-406f-8cce-982499441eea",
+          "puuid": "6a96918b-d6b8-4134-8d6f-3185c453b605",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607259088208,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53355642,
+                48.16061648,
+                0
+              ],
+              [
+                11.5335839,
+                48.16054927,
+                0
+              ],
+              [
+                11.53388311,
+                48.16056149,
+                0
+              ],
+              [
+                11.53376098,
+                48.16063278,
+                0
+              ],
+              [
+                11.53355642,
+                48.16061648,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "z0U52dnXQfbEZVzP",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 119.11028814175368,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "8ca94a25-c4dc-4cbc-8b4a-39556565d2d7",
+          "puuid": "c7b71f61-f44b-4856-8e34-77baf7fd454f",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607259088208,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53383731,
+                48.16071933,
+                0
+              ],
+              [
+                11.53390295,
+                48.16066943,
+                0
+              ],
+              [
+                11.53411973,
+                48.16071526,
+                0
+              ],
+              [
+                11.53405866,
+                48.16076923,
+                0
+              ],
+              [
+                11.53383731,
+                48.16071933,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ePwR4nsX7kdgyAvk",
+      "type": "Feature",
+      "properties": {
+        "area_sqm": 132.38408974356673,
+        "area_sqkm": 0,
+        "area_sqmiles": 0,
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "a43c2332-eae9-4b73-bf9f-0ccb7e84768e",
+          "puuid": "26f7f703-7e18-413d-85db-ebf5b5ac565c",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607259088208,
+          "updatedAt": 1607259134385
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53417023,
+                48.15950771,
+                0
+              ],
+              [
+                11.53420364,
+                48.1594504,
+                0
+              ],
+              [
+                11.53446136,
+                48.15946314,
+                0
+              ],
+              [
+                11.53442318,
+                48.15952681,
+                0
+              ],
+              [
+                11.53417023,
+                48.15950771,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "9DFanVsSjakncNKO",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "fe95528b-2eb4-4281-b400-35ba08be1f01",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607259297974,
+          "updatedAt": 1607259297974
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.5267864,
+                48.15318794,
+                0
+              ],
+              [
+                11.5268269,
+                48.15310688,
+                0
+              ],
+              [
+                11.52716563,
+                48.15315601,
+                0
+              ],
+              [
+                11.52715459,
+                48.15324198,
+                0
+              ],
+              [
+                11.5267864,
+                48.15318794,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "BgkyKur5R6N0nBKm",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "d99f52c1-83ba-44e6-a675-1288b854e43e",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607259297974,
+          "updatedAt": 1607259297974
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53901556,
+                48.14440975,
+                0
+              ],
+              [
+                11.53901264,
+                48.1443465,
+                0
+              ],
+              [
+                11.53913224,
+                48.14433676,
+                0
+              ],
+              [
+                11.53914536,
+                48.14440197,
+                0
+              ],
+              [
+                11.53901556,
+                48.14440975,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "bEwUCfstmylrap2Y",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "5f295e78-0a00-43ee-a524-d61170ba0b50",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607259297974,
+          "updatedAt": 1607259297974
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53950125,
+                48.14437277,
+                0
+              ],
+              [
+                11.53950125,
+                48.14430367,
+                0
+              ],
+              [
+                11.53963105,
+                48.14429005,
+                0
+              ],
+              [
+                11.53962959,
+                48.14436985,
+                0
+              ],
+              [
+                11.53950125,
+                48.14437277,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "itZAC6XE208AC5yn",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "0109ec32-d511-4593-bf7f-cae0494ed6ab",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265550344,
+          "updatedAt": 1607265550344
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53246103,
+                48.1497592,
+                0
+              ],
+              [
+                11.53248626,
+                48.1497087,
+                0
+              ],
+              [
+                11.53266287,
+                48.14973605,
+                0
+              ],
+              [
+                11.53263764,
+                48.14978865,
+                0
+              ],
+              [
+                11.53246103,
+                48.1497592,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "YA4caCSfTw4zstBH",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "e901668b-cc79-46f1-bb4e-6e80ecd5d1a9",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265550344,
+          "updatedAt": 1607265550344
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53323999,
+                48.14987703,
+                0
+              ],
+              [
+                11.53326207,
+                48.14982022,
+                0
+              ],
+              [
+                11.53333775,
+                48.14983495,
+                0
+              ],
+              [
+                11.53332514,
+                48.14988965,
+                0
+              ],
+              [
+                11.53323999,
+                48.14987703,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "K3hjOw78JXHDeXEz",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "71c35ffc-7c53-4f70-a8f3-460a73d15f50",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265550344,
+          "updatedAt": 1607265550344
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54535498,
+                48.15047435,
+                0
+              ],
+              [
+                11.54533281,
+                48.15040484,
+                0
+              ],
+              [
+                11.54548577,
+                48.15037082,
+                0
+              ],
+              [
+                11.5455301,
+                48.15044625,
+                0
+              ],
+              [
+                11.54535498,
+                48.15047435,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "yhYbHLNnh4TUZ0wW",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "5d51235f-0468-4e27-ac54-6e6ec38261d7",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265550344,
+          "updatedAt": 1607265550344
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54590694,
+                48.15035012,
+                0
+              ],
+              [
+                11.54588921,
+                48.15028948,
+                0
+              ],
+              [
+                11.54603994,
+                48.15024807,
+                0
+              ],
+              [
+                11.54606211,
+                48.15031906,
+                0
+              ],
+              [
+                11.54590694,
+                48.15035012,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "48dUpQ8yVOOTTvP3",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "2e996cb6-b47d-415d-8eda-72c836162b17",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265550344,
+          "updatedAt": 1607265550344
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54611974,
+                48.1502599,
+                0
+              ],
+              [
+                11.54610644,
+                48.15021997,
+                0
+              ],
+              [
+                11.54630816,
+                48.15017412,
+                0
+              ],
+              [
+                11.54633033,
+                48.15022441,
+                0
+              ],
+              [
+                11.54611974,
+                48.1502599,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "R9PDWfNA5Oi2BjJ0",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "7e64f7be-f4ec-42d3-a823-6f5e510d04ab",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265550344,
+          "updatedAt": 1607265550344
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54693991,
+                48.15049062,
+                0
+              ],
+              [
+                11.54693105,
+                48.15044921,
+                0
+              ],
+              [
+                11.54701085,
+                48.15042998,
+                0
+              ],
+              [
+                11.54701085,
+                48.15047583,
+                0
+              ],
+              [
+                11.54693991,
+                48.15049062,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "8DXG2hzAm3t9GY5S",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "07011a43-2ce7-4065-9a4f-388f2e3ae765",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265550344,
+          "updatedAt": 1607265550344
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54697094,
+                48.15090916,
+                0
+              ],
+              [
+                11.54695764,
+                48.15085592,
+                0
+              ],
+              [
+                11.54724581,
+                48.15079232,
+                0
+              ],
+              [
+                11.54726355,
+                48.15085444,
+                0
+              ],
+              [
+                11.54697094,
+                48.15090916,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "PttLd7rMcsFHZJIa",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "d13b9b0a-b122-434f-8db7-e6d474299f28",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265706312,
+          "updatedAt": 1607265706312
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53356825,
+                48.15708591,
+                0
+              ],
+              [
+                11.53359216,
+                48.15703524,
+                0
+              ],
+              [
+                11.53388471,
+                48.15711218,
+                0
+              ],
+              [
+                11.53382845,
+                48.15716379,
+                0
+              ],
+              [
+                11.53356825,
+                48.15708591,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "vh5P4ZB8JGp9dORn",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "aa474d14-1d61-4807-99bb-f1853c7c86d6",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265706312,
+          "updatedAt": 1607265706312
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53543406,
+                48.15553339,
+                0
+              ],
+              [
+                11.5354737,
+                48.15549372,
+                0
+              ],
+              [
+                11.53559041,
+                48.15552898,
+                0
+              ],
+              [
+                11.53555077,
+                48.15557452,
+                0
+              ],
+              [
+                11.53543406,
+                48.15553339,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "uFua5M5m3m4Kl3JX",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "26d56ab3-64f9-4a60-8d3a-1a9ef96e4baa",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265706312,
+          "updatedAt": 1607265706312
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53569425,
+                48.15557814,
+                0
+              ],
+              [
+                11.53572886,
+                48.15552986,
+                0
+              ],
+              [
+                11.53621339,
+                48.15566419,
+                0
+              ],
+              [
+                11.53617563,
+                48.15571666,
+                0
+              ],
+              [
+                11.53569425,
+                48.15557814,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "2qOZjJSuy66EkfJD",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "46d772f8-d8da-475a-bb01-73a9f19b83fd",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265706312,
+          "updatedAt": 1607265706312
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.55332458,
+                48.1566413,
+                0
+              ],
+              [
+                11.55383525,
+                48.15690258,
+                0
+              ],
+              [
+                11.55458884,
+                48.15627418,
+                0
+              ],
+              [
+                11.55405339,
+                48.15599305,
+                0
+              ],
+              [
+                11.55332458,
+                48.1566413,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "iRqWp18hGy4cswou",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "dee70c66-70fd-4da4-8530-20f0c0c54f4d",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265836707,
+          "updatedAt": 1607265836707
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53909927,
+                48.15949242,
+                0
+              ],
+              [
+                11.53909495,
+                48.15944192,
+                0
+              ],
+              [
+                11.53957298,
+                48.15942893,
+                0
+              ],
+              [
+                11.53957298,
+                48.15948088,
+                0
+              ],
+              [
+                11.53909927,
+                48.15949242,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "zmxb3ipEiRoU5w8R",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "15091a5e-a0c9-4dc3-babd-3548cd626f8c",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265836707,
+          "updatedAt": 1607265836707
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53986716,
+                48.15947222,
+                0
+              ],
+              [
+                11.539865,
+                48.15942749,
+                0
+              ],
+              [
+                11.54011592,
+                48.15942172,
+                0
+              ],
+              [
+                11.54012024,
+                48.15946501,
+                0
+              ],
+              [
+                11.53986716,
+                48.15947222,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3rCj8ukRfkGU0isK",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "0f21aa67-1e67-4c22-9175-0e3b114028ba",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265836707,
+          "updatedAt": 1607265836707
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53804802,
+                48.15990798,
+                0
+              ],
+              [
+                11.53804802,
+                48.1599628,
+                0
+              ],
+              [
+                11.5385585,
+                48.15994837,
+                0
+              ],
+              [
+                11.53856499,
+                48.15990076,
+                0
+              ],
+              [
+                11.53804802,
+                48.15990798,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "XpbAvj0Ygs4ElILZ",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "1b4f9598-0cfb-44d8-be55-9b1e67039a85",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265836707,
+          "updatedAt": 1607265836707
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53940426,
+                48.15984593,
+                0
+              ],
+              [
+                11.53941724,
+                48.15980264,
+                0
+              ],
+              [
+                11.54021109,
+                48.15979976,
+                0
+              ],
+              [
+                11.54020892,
+                48.15983727,
+                0
+              ],
+              [
+                11.53940426,
+                48.15984593,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "jNU80nHs8SGaQ80Z",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "8fbb78dd-79db-47d2-86ae-d2e451c4d410",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265836707,
+          "updatedAt": 1607265836707
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54154313,
+                48.16145035,
+                0
+              ],
+              [
+                11.54158999,
+                48.16141173,
+                0
+              ],
+              [
+                11.54177744,
+                48.16156251,
+                0
+              ],
+              [
+                11.5417168,
+                48.16159745,
+                0
+              ],
+              [
+                11.54154313,
+                48.16145035,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "ZAAGGYmXzMI1WVff",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "c45f3499-286c-4d04-a5a8-ae09b2a5dde4",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265836707,
+          "updatedAt": 1607265836707
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54181053,
+                48.16159193,
+                0
+              ],
+              [
+                11.54174988,
+                48.16163239,
+                0
+              ],
+              [
+                11.54198419,
+                48.16180891,
+                0
+              ],
+              [
+                11.54204484,
+                48.16177213,
+                0
+              ],
+              [
+                11.54181053,
+                48.16159193,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "IZ4JcqOQWxkuhaOq",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "c3b719c5-ca63-49e5-85eb-0d80b5059f7b",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265946880,
+          "updatedAt": 1607265946880
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.55237953,
+                48.1608278,
+                0
+              ],
+              [
+                11.5524384,
+                48.16075908,
+                0
+              ],
+              [
+                11.55293511,
+                48.16102905,
+                0
+              ],
+              [
+                11.55282841,
+                48.16108059,
+                0
+              ],
+              [
+                11.55237953,
+                48.1608278,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "s4l8NYCJqXH4814M",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "f4abe6a4-8f88-4437-8cc7-d2b5e8b091c3",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265946880,
+          "updatedAt": 1607265946880
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54908858,
+                48.15969479,
+                0
+              ],
+              [
+                11.54916567,
+                48.15973669,
+                0
+              ],
+              [
+                11.54938835,
+                48.15953101,
+                0
+              ],
+              [
+                11.54932269,
+                48.15949292,
+                0
+              ],
+              [
+                11.54908858,
+                48.15969479,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "aJOxuxeAhNxb3Pea",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "61a051b3-8dfd-4f84-b588-e3013af193a8",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265946880,
+          "updatedAt": 1607265946880
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54922562,
+                48.15975383,
+                0
+              ],
+              [
+                11.54943689,
+                48.15956529,
+                0
+              ],
+              [
+                11.54952539,
+                48.15960147,
+                0
+              ],
+              [
+                11.54929699,
+                48.15979001,
+                0
+              ],
+              [
+                11.54922562,
+                48.15975383,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3xkrtNl0N3ILxu7v",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "3a9eac48-b96c-4800-adbd-cba9e35313e2",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265946880,
+          "updatedAt": 1607265946880
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54871459,
+                48.15983381,
+                0
+              ],
+              [
+                11.54878025,
+                48.15978239,
+                0
+              ],
+              [
+                11.54890872,
+                48.15984333,
+                0
+              ],
+              [
+                11.54883449,
+                48.15989665,
+                0
+              ],
+              [
+                11.54871459,
+                48.15983381,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "LmX3gT91kxM5D2Pj",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "46819cf3-b069-4d0f-9f69-b4f866092872",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607265946880,
+          "updatedAt": 1607265946880
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54898581,
+                48.1599614,
+                0
+              ],
+              [
+                11.54904576,
+                48.1599176,
+                0
+              ],
+              [
+                11.54914283,
+                48.15996331,
+                0
+              ],
+              [
+                11.5490686,
+                48.16002044,
+                0
+              ],
+              [
+                11.54898581,
+                48.1599614,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "htiulMwJwuyWnkks",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "dba38741-b72a-438f-ac43-123e02185c5f",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607266561840,
+          "updatedAt": 1607266561840
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53622768,
+                48.15741751,
+                0
+              ],
+              [
+                11.53624914,
+                48.15737278,
+                0
+              ],
+              [
+                11.536571,
+                48.15745956,
+                0
+              ],
+              [
+                11.53653211,
+                48.15751145,
+                0
+              ],
+              [
+                11.53622768,
+                48.15741751,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "3F1gTAXycfZji7bs",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "0ead7626-2112-424a-9de2-6ed76080ae1d",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607266561840,
+          "updatedAt": 1607266561840
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53602785,
+                48.15722159,
+                0
+              ],
+              [
+                11.53603724,
+                48.15718044,
+                0
+              ],
+              [
+                11.53624914,
+                48.15720996,
+                0
+              ],
+              [
+                11.53623036,
+                48.15725738,
+                0
+              ],
+              [
+                11.53602785,
+                48.15722159,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "jCg5Crc5RJDZ5bCb",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "f5133e65-507a-4473-ab6b-04e0994e2fc9",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607266561840,
+          "updatedAt": 1607266561840
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.53635719,
+                48.15701727,
+                0
+              ],
+              [
+                11.53637767,
+                48.15697174,
+                0
+              ],
+              [
+                11.53687816,
+                48.1571068,
+                0
+              ],
+              [
+                11.53683949,
+                48.15715385,
+                0
+              ],
+              [
+                11.53635719,
+                48.15701727,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "v0z0v75hP04B5ep6",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "2466ad57-1299-47f1-8fbb-f1f39d57fee9",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607266561840,
+          "updatedAt": 1607266561840
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54577872,
+                48.1535843,
+                0
+              ],
+              [
+                11.54582618,
+                48.15351894,
+                0
+              ],
+              [
+                11.54593488,
+                48.15357919,
+                0
+              ],
+              [
+                11.54582771,
+                48.15361596,
+                0
+              ],
+              [
+                11.54577872,
+                48.1535843,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "id": "xSfFLr1ySpLcfjcg",
+      "type": "Feature",
+      "properties": {
+        "@ns:com:here:xyz": {
+          "tags": [],
+          "uuid": "f7129fd1-b2b4-431f-af18-7e11533092e0",
+          "space": "rAaWUeJ1",
+          "createdAt": 1607266561840,
+          "updatedAt": 1607266561840
+        }
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                11.54513266,
+                48.15310222,
+                0
+              ],
+              [
+                11.54523677,
+                48.15302255,
+                0
+              ],
+              [
+                11.54569605,
+                48.15326053,
+                0
+              ],
+              [
+                11.54558276,
+                48.1533545,
+                0
+              ],
+              [
+                11.54513266,
+                48.15310222,
+                0
+              ]
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
