@@ -1,0 +1,39 @@
+Project Name : 
+
+SANIYA################################################################################################################
+World׳s energy demand is growing fast because of population explosion and technological advancements.
+It is therefore important to choose reliable, cost effective and everlasting renewable energy source for energy needs.
+Solar Energy is the future. It is easily deployable without disturbing the infrastructure and without causing any harm to the environment.
+
+This is why we are creating Solar.city which using Geospatial analysis, helps local communities to move in the direction of a solar future.
+With the help of satellite imagery, our app gives the estimation of the rooftop area, the solar intensity value, the number of solar panels required to cover 
+it, estimated costs of installation and the power generated in KWH yearly.
+
+LOKI#######################################################################################################################
+
+
+How do we do it?
+Firstly, we get the Satellite Imagery with the help of Google Maps or OpenStreetMaps and segment out the rooftop using various machine learning algorithms in conjuction with openCV 
+image processing.Then with the zoom level, we convert the pixels to area, that is we calculate out the area of the rooftop. So lets say if the area of the rooftop is 480 m^2, then
+we can find the number of solar panels required to cover that particular rooftop and can also find its associated costs.
+One major concern is that, the rooftop area is not only the decisive factor for knowing the efficiency, their are other factors also, that will be discussed by Arun.
+
+
+
+ARUN#####################################################################################################################################
+
+Keeping aside the rooftop area, their are other factors also on which the power generation will depend, like the solar irradiance value or the solar intensity received at a certain 
+place.So, the next thing we do, is use the opensource solar intensity values dataset and we map these intensity values with the latitude and longitude of the rooftop sample 
+depending on the location.
+
+So lets say, we have certain rooftop region, we pass it to our algorithm that will segment out the rooftop.
+Now we calculate the number of pixels in the image and pass it to a function that will use some defined ratios and convert these pixels to area.
+With the given area, we estimate the number of Solar cells required to cover the rooftop. And most importantly, we estimate the amount of power generation in kilo-watt-hour.
+Lets say I live near the equator or maybe take India, then I will receive higher solar irradiance compared to someone living near the poles. So we are also making a classifier  
+called the Solar Radiation Intensity Classifier.
+If I receive higher solar intensity, my roof will be highly saturated red in color in the map. If I live in a region that receives lower amount of sunlight, then it will 
+be less saturated in color.Next, we convert both this data, that is, the rooftop area and the intensity levels to precisely calculate the efficiency of solar panel that is installed in a 
+certain location.
+
+
+

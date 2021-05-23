@@ -1,0 +1,125 @@
+.navbar {
+  width: 100%;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  background: rgb(17, 39, 129, 0.5);
+  box-sizing: border-box;
+  padding: 0 60px;
+}
+
+.logo {
+  width: 155px;
+}
+
+.logo img {
+  width: 30px;
+  position: relative;
+  z-index: 10;
+  cursor: pointer;
+}
+
+nav {
+  flex: 1;
+}
+
+nav ul li {
+  list-style: none;
+  display: inline-block;
+  margin-right: 60px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  text-shadow: 2px 2px 5px rgb(14, 37, 100);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins";
+}
+
+body {
+  background: rgb(180, 193, 249);
+  background: linear-gradient(
+    90deg,
+    rgba(180, 193, 249, 1) 0%,
+    rgba(199, 240, 245, 1) 50%,
+    rgba(205, 255, 201, 1) 100%
+  );
+  min-height: 1500px;
+}
+
+section {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  pointer-events: none;
+}
+
+section:before {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background: linear-gradient(to top, rgb(66, 77, 102), transparent);
+  z-index: 10000;
+}
+
+#text {
+  align-items: center;
+  position: relative;
+  color: rgb(10, 47, 78);
+  font-size: 4em;
+  text-shadow: 2px 2px 4px aliceblue;
+  letter-spacing: 12px;
+  font-family: "Poppins";
+  text-decoration: none;
+  font-weight: 20;
+  z-index: 1;
+}
+
+.importancetxt {
+  padding-top: 30px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-bottom: 60px;
+  color: rgb(48, 92, 129);
+  text-shadow: 1px 1px 2px rgb(203, 216, 228);
+  text-align: center;
+}
+
+.borderbox {
+  border: 10px solid rgb(216, 229, 241);
+  padding: 80px;
+}
+
+.head {
+  font-size: 50px;
+  padding-bottom: 20px;
+}
+
+.par {
+  font-size: 20px;
+}
+
+audio {
+  width: 300px;
+  height: 40px;
+}
